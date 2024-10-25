@@ -1,7 +1,7 @@
 .herobgimg{
     /* background-image: url("https://ik.imagekit.io/Sample/htmlAss/heroBgImg.png?updatedAt=1729856204345"); */
     background-repeat: no-repeat;
-    height: 100vh;
+    /* height: 100vh; */
     background-color: rgb(21, 54, 76) ;
     background-size: cover;
 }
