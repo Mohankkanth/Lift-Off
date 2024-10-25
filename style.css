@@ -1,6 +1,6 @@
 .herobgimg{
     background-repeat: no-repeat;
-    height: 100vh;
+    height: 93vh;
     background-color: rgb(21, 54, 76) 
     ;
     background-size: cover;
@@ -9,7 +9,7 @@
 
 
 .footerbgimg{
-    height: 40vh;
+    height: 100vh;
     background-color: rgb(21, 54, 76) 
     ;
 }
