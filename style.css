@@ -1,0 +1,16 @@
+.herobgimg{
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-color: rgb(21, 54, 76) 
+    ;
+    background-size: cover;
+}
+
+
+
+.footerbgimg{
+    height: 40vh;
+    background-color: rgb(21, 54, 76) 
+    ;
+}
+
